@@ -3,7 +3,9 @@
 ### 👨‍💻 About Me
 طالب مهتم بعلوم الحاسوب، أركز حالياً على تطوير مهاراتي في **الخوارزميات (Algorithms)** و **قواعد البيانات (Databases)**.
 
+- 🔭 I’m currently working on: **Library Management System Project**
 - 🌱 I’m currently learning: **Data Structures & SQL Optimization**
+- ⚡ Fun fact: I love solving logic puzzles!
 
 ---
 
