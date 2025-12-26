@@ -18,6 +18,6 @@
 
 ### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Hussein-abdullah&show_icons=true&theme=radical" alt="Hussein's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-abdullah&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hussein-Abdullah&show_icons=true&theme=radical" alt="Hussein's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-Abdullah&layout=compact&theme=radical" alt="Top Langs" />
 </p>
